@@ -1,0 +1,7 @@
+.s3-dropdown .selected {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow-x: hidden;
+	position: absolute;
+	max-width: calc(100% - 24px);
+}
